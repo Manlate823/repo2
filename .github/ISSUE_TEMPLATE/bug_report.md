@@ -6,7 +6,7 @@ about: Create a report to help us improve
 
 **Describe the bug**
 A clear and concise description of what the bug is.
-Please do not post questions or `how do I`'s here. Contact/DM [@supermamon](http://twitter.com/supermamon) or [@reposi3](https://twitter.com/reposi3) on Twitter.
+Please do not post questions or `how do I`'s here. Contact/DM [@Manlate823](https://twitter.com/manlate823) or [@repo2](https://twitter.com/manlate823) on Twitter.
 
 **To Reproduce**
 Steps to reproduce the behavior:
