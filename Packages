@@ -16,7 +16,7 @@ Package: com.Appcake.oldpackage
 Version: 1.0.0-1
 Section: Tweaks
 Maintainer: Repo2 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Depends: firmware (>7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.Appcake.oldpackage_1.0.0-1_iphoneos-arm.deb
 Size: 860
