@@ -26,7 +26,7 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
-Package: net.angelxwind.appsyncunified
+Package: com.manlate823.appsyncunified
 Section: Tweaks
 Installed-Size: 256
 Maintainer: Karen／明美 (angelXwind) <angelXwind@angelxwind.net>
@@ -36,7 +36,7 @@ Replaces: us.hackulo.appsync50
 Provides: appsync
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<< 11.0)
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
-Filename: ./files-deb/net.angelxwind.appsyncunified_6.0.2_iphoneos-arm.deb
+Filename: ./debs/com.manlate823.appsyncunified_6.0.2_iphoneos-arm.deb
 Size: 28752
 MD5sum: f2c58a47e4480be400e638aa14423b83
 SHA1: a6f109be204763eaa6361bbb72adc25dc9bc9703
