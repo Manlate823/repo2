@@ -1,28 +1,13 @@
-Package: com.Snowboard.newpackage
+Package: Manlate823-appsyncunified_76.0_iphoneos-arm.deb
 Version: 2.0.0-1
 Section: Tweaks
 Maintainer: Repo2 <Manlate823@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Depends: firmware (>13.6.1), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.Snowboard.newpackage_2.0.0-1_iphoneos-arm.deb
 Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: This is a sample new package. Firmware should be greater than 7.0
 Name: Snowboard
 Author: Manlate823 <Manlate823@gmail.com>
 Depiction: https://manlate823.github.io/repo2/
-
-Package: com.Appcake.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Repo2 <reposithree@gmail.com>
-Depends: firmware (>7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.Appcake.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Appcake
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://manlate823.github.io/repo2/depictions/?p=com.Manlate823.oldpackage
 
