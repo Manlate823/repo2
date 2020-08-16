@@ -1,10 +1,10 @@
 <package>
-	<id>Manlate823-appsyncunified_76.0_iphoneos-arm.deb</id>
-	<name>appyncunified</name>
+	<id>com.supermamon.oldpackage</id>
+	<name>Old Package</name>
 	<version>1.0.0-1</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>13.6.1</maxiOS>
+			<maxiOS>7.0</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -13,7 +13,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Copatible 13.6.1..</description>
+		<description>This is an old package. Requires iOS 7 and below..</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
